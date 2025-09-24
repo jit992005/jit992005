@@ -8,6 +8,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jit992005" alt="jit992005" /></a> </p>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 - 📫 How to reach me **jitparia415@gmail.com**
 
 - ⚡ Fun fact **I am funny**
