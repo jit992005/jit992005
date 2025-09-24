@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/jit992005/jit992005/blob/main/picture.png)
 <h1 align="center">Hi 👋, I'm JIT KUMAR PARIA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
