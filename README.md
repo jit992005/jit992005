@@ -13,9 +13,8 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-- (●'◡'●)  JIT KUMAR PARIA  (●'◡'●)
+- (●'◡'●)  JIT KUMAR PARIA  (●'◡'●)**
 - 📫 How to reach me **jitparia415@gmail.com**
-
 - ⚡ Fun fact **I am funny😊😊**
 
 <h3 align="left">Connect with me:</h3>
