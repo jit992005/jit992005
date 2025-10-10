@@ -2,8 +2,12 @@
 <h1 align="center">Hi 👋, I'm Jit Kumar Paria </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
+<div style="text-align: center;">
+  <img 
+    alt="coding" 
+    width="400" 
+    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jit992005&label=Profile%20views&color=0e75b6&style=flat" alt="jit992005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jit992005" alt="jit992005" /></a> </p>
