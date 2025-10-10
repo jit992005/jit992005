@@ -1,5 +1,5 @@
 ![logo](https://github.com/jit992005/jit992005/blob/main/picture.png)
-<h1 align="center">Hi 👋, I'm JIT KUMAR PARIA</h1>
+<h1 align="center">Hi 👋, I'm Jit Kumar Paria </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jitparia415@gmail.com**
   
-- ⚡ Fun fact **I am funny😊😊**
+- ⚡ Fun fact **I am funny 😊😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
