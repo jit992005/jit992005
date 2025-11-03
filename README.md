@@ -3,10 +3,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div style="text-align: center;">
-  <img 
-    alt="coding" 
-    width="400" 
-    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+    <img
+      alt="coding" 
+      width="400" 
+      src="https://miro.medium.com/v2/resize:fit:1400/1*PRTurYr4cJU5i7IRa83wKw.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jit992005&label=Profile%20views&color=0e75b6&style=flat" alt="jit992005" /> </p>
 
