@@ -1,5 +1,5 @@
 ![logo](https://github.com/jit992005/jit992005/blob/main/picture.png)
-<h1 align="center">Hi 👋, I'm Jit Kumar Paria </h1>
+<h1 align="center">Hi 👋, I'm Jit Kumar paria </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div style="text-align: center;">
