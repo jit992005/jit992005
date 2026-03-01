@@ -10,7 +10,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jit992005&label=Profile%20views&color=0e75b6&style=flat" alt="jit992005" /> </p>
 
-<p align="left"> <a href="https://github.com/Oussamayousre/Oussamayousre" /></a> </p>
+<p align="left"> <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" /></a> </p>
 
 <!-- Snake Game Repo View -->
 
