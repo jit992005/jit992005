@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm JIT KUMAR PARIA</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Mobile App Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A1AFF&height=220&section=header&text=JIT%20KUMAR%20PARIA&fontSize=35&fontColor=00F7FF&animation=fadeIn" />
+  <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Mobile App Developer</h3>
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0A1AFF&height=3"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jit992005&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
-
 ## 🚀 About Me
 - 🌱 Currently learning **PHP, JavaScript, Cloud Computing**
   <img align="right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4dc71849-83f7-4382-b8f8-4aee775b17b1" />
@@ -14,7 +16,6 @@
 - 💻 Passionate about **Full Stack Development**
 - 📱 Building modern **Mobile Applications**
 - 🤖 Exploring **AI & Machine Learning**
-- ⚙️ Love working with **DevOps & Cloud Tools**
 - 🎯 Goal: Become a **complete software engineer**
 - 📫 Reach me at: **jitparia415@gmail.com**
 ---
@@ -32,75 +33,91 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🛠️ Languages & Tools
 
 ### 👨‍💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)
+<table>
+<tr>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">C<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">C++<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Java<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">JavaScript<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">PHP<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Backbone.js](https://img.shields.io/badge/Backbone.js-0071B5?style=for-the-badge)
+<table>
+<tr>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">HTML5<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">CSS3<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">React<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">Tailwind<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">Bootstrap<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+<table>
+<tr>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Node.js<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Express<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+<table>
+<tr>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">Android<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">React Native<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
----
-
-### 🤖 AI / Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<table>
+<tr>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">MongoDB<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">MySQL<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<table>
+<tr>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">Docker<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">Git<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></td>
+<td align="center" style="background-color:#000000; color:#00F7FF; border-radius:12px; padding:15px;">Firebase<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
-### 🎨 Design & Others
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine)
 
----
-
-## 📊 GitHub Stats
+### 🎨 Design
+<table>
+<tr>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Figma<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Photoshop<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></td>
+<td align="center" style="background-color:#0A1AFF; color:white; border-radius:12px; padding:15px;">Illustrator<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/></td>
+</tr>
+</table>## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jit992005&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1AFF,100:000000&height=120&section=footer"/>
 </p>
