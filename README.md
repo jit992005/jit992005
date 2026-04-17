@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://fb.com/jit paria"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/></a>
   <a href="https://instagram.com/jit_paria_35"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
-  <a href="https://www.youtube.com/c/@Jitparia-qg5gl"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30"/></a>
+  <a href="https://www.youtube.com/@Jitparia-qg5gl"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30"/></a>
 </p>
 
 ---
